@@ -4,16 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+II'm+Leonardo+Jibran+Machiavelli!" />
 </h1>
 
-<h3 align="center">A passionate Frontend Developer from Brazil 🇧🇷</h3>
+<h3 align="center">Front End Developer - Brazil 🇧🇷</h3>
 
-<br/>
-
-<div align="center">
-  🔭 I’m currently working on **"O Tio da Van" and "O Tio" apps**  
-  🌱 I’m currently learning **System Design, React Native**  
-  💬 Ask me about **Next.js, React, TypeScript, Tailwind, Frontend System Design**  
-  ⚡ Fun fact: **I believe in coding simplicity and efficiency!**
-</div>
+<div align="center"> 🔭 Currently, I am a developer at ZEN S.A. and I am pursuing a degree in Computer Science while working on personal projects. </div>
 
 <br>
 
@@ -35,14 +28,6 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,github,js,html,css" />
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JibranMachiavelli/JibranMachiavelli/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
 <hr/>
