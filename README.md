@@ -1,5 +1,5 @@
 <h1 align="">Hi, I'm Leonardo Jibran Machiavelli</h1>
-<h3 align="">Looking to specialize exclusively in Frontend Development, currently working as an IT Development intern.</h3>
+<h3 align="">Currently working as a Frontend Developer, seeking exclusive specialization in the field.</h3>
 <br>
 <p><img align="right" src="https://github.com/JibranMachiavelli/Jibran/blob/main/animation_500_kxa883sd.gif" alt="jibran" width=40% height=40% /></p>
 
