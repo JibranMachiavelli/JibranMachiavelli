@@ -53,22 +53,10 @@ const jibran = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/JibranMachiavelli/asset-manegement">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JibranMachiavelli&repo=asset-manegement&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Asset Management" />
-  </a>
-  <a href="https://github.com/JibranMachiavelli/Entregando-Tudo-Chess-Game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JibranMachiavelli&repo=Entregando-Tudo-Chess-Game&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Chess Game" />
-  </a>
-</div>
-
-<br/>
-
 | Project | Description | Stack |
 | --- | --- | --- |
 | 🏗️ **AD5 Engenharia — Corporate Web System** | Full corporate system: users, documents, role-based access control and cloud storage | Next.js · Express · Prisma · PostgreSQL · AWS S3 |
 | 🌱 **Projeto Sementes — NGO Admin Panel** | Responsive admin dashboard managing volunteers, families, donations and events | Next.js · React · Tailwind CSS |
-| 📦 **Asset Management** | Full-stack enterprise asset management system | React · Spring Boot · Docker |
 
 <hr/>
 
