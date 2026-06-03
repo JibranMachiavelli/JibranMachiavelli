@@ -98,16 +98,6 @@ const jibran = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JibranMachiavelli&theme=tokyonight" height="180em" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JibranMachiavelli&theme=tokyonight&utcOffset=-3" height="180em" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JibranMachiavelli&theme=tokyonight" height="180em" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JibranMachiavelli&theme=tokyonight" height="180em" alt="Most Commit Language" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JibranMachiavelli&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
