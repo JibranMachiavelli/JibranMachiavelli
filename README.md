@@ -25,7 +25,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JibranMachiavelli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://img.shields.io/github/followers/JibranMachiavelli?style=for-the-badge&logo=github&color=0d1117&labelColor=2E7AE3&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/JibranMachiavelli?style=for-the-badge&logo=github&color=0d1117&labelColor=2E7AE3&label=STARS" />
 </div>
 
 <hr/>
