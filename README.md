@@ -22,15 +22,53 @@
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JibranMachiavelli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+</div>
+
 <hr/>
 
 ## 🧑‍💻 About Me
 
+```typescript
+const jibran = {
+  role: "Full Stack Developer @ Geosapiens",
+  education: "Computer Science @ UNIVALI",
+  frontend: ["React (Vite)", "Next.js", "TypeScript", "Tailwind CSS"],
+  backend: ["Java", "Spring Boot", "Node.js", "PostgreSQL"],
+  mobile: ["React Native", "Expo"],
+  design: "Figma — functional & creative interfaces",
+  focus: "Clean Code · SOLID · Performance · UX",
+};
+```
+
 - 🔭 Building full stack web applications at **Geosapiens** — React (Vite) on the frontend, **Java + Spring Boot** on the backend
-- 🌱 Bachelor's in **Computer Science** at UNIVALI
-- ⚡ Passionate about **clean code**, performance and great user experience
+- 🧪 Writing automated tests and doing code reviews to keep quality high
 - 🎨 I also design functional and creative interfaces in **Figma**
-- 📱 Experience with mobile apps using **React Native & Expo**
+- 🌱 Always learning — from Web Performance to GenAI streaming with LLMs
+
+<hr/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/JibranMachiavelli/asset-manegement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JibranMachiavelli&repo=asset-manegement&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Asset Management" />
+  </a>
+  <a href="https://github.com/JibranMachiavelli/Entregando-Tudo-Chess-Game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JibranMachiavelli&repo=Entregando-Tudo-Chess-Game&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Chess Game" />
+  </a>
+</div>
+
+<br/>
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| 🏗️ **AD5 Engenharia — Corporate Web System** | Full corporate system: users, documents, role-based access control and cloud storage | Next.js · Express · Prisma · PostgreSQL · AWS S3 |
+| 🌱 **Projeto Sementes — NGO Admin Panel** | Responsive admin dashboard managing volunteers, families, donations and events | Next.js · React · Tailwind CSS |
+| 📦 **Asset Management** | Full-stack enterprise asset management system | React · Spring Boot · Docker |
 
 <hr/>
 
@@ -46,9 +84,20 @@
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,prisma,postgres" />
 </div>
 
-<h4 align="center">Tools & DevOps</h4>
+<h4 align="center">Mobile, Tools & DevOps</h4>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
+</div>
+
+<hr/>
+
+## 📜 Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Completo-Origamid-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Origamid-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI_Design-Origamid-FF4088?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codecon_Summit_25-Participant-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white" />
 </div>
 
 <hr/>
@@ -62,6 +111,12 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JibranMachiavelli&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JibranMachiavelli&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity Graph" />
 </div>
 
 <hr/>
