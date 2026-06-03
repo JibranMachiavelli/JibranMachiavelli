@@ -94,8 +94,17 @@ const jibran = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JibranMachiavelli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160em" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JibranMachiavelli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160em" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JibranMachiavelli&theme=tokyonight" alt="Profile Details" width="800" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JibranMachiavelli&theme=tokyonight" height="180em" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JibranMachiavelli&theme=tokyonight&utcOffset=-3" height="180em" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JibranMachiavelli&theme=tokyonight" height="180em" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JibranMachiavelli&theme=tokyonight" height="180em" alt="Most Commit Language" />
 </div>
 
 <div align="center">
